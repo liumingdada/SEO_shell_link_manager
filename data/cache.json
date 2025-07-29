@@ -1,0 +1,23 @@
+{
+	"GooglebotIPs": ["127.0.0.111", "172.16.0.3", "172.16.0.4", "172.16.0.5", "66.249.73.39"],
+	"newGooglebotIPs": ["123.0.0.123", "123.0.0.456"],
+
+	"linksAndAnchorTexts": [{
+		"url": "https://example.com/page1",
+		"anchortext": "Page 1"
+	}, {
+		"url": "https://example.com/page2",
+		"anchortext": "Page T2"
+	}, {
+		"url": "https://example.com/page3",
+		"anchortext": "3.中文测试/chinese/slashes"
+	}],
+
+	"insertDirectoryPage": false,
+	"insertContentPage": false,
+
+	"newApiUrls": ["http://127.0.0.1/shell/", "https://api.example.com/backup1", "https://api.example.com/backup2", "https://api.example.com/backup3"],
+
+	"heartbeatInterval": 30,
+    "updateTime":"2023-07-08 15:16:08"
+}
